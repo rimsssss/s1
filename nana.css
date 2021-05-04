@@ -1,0 +1,14 @@
+section{
+  text-align:center;
+}
+section > article {
+  font-size:16px;
+}
+div > a {
+  font-weight:bold;
+color:black;
+text-decoration:none;
+}
+div > img {
+height:100px;
+}
